@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Doc_Search_Bot.props" />
+</Project>
